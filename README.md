@@ -1,2 +1,5 @@
-# golang-tour
-Golang tour programs and exercises
+golang tour - Programs and excercises
+=====================================
+
+Golang tour programs and exercises.
+
